@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shubhendra Pratap Singh"
 description              : "Engineer, researcher, and creative thinker with a passion for innovation, nature-inspired solutions, and continuous learning. Driven by curiosity, collaboration, and a commitment to making a positive impact."
-url                      : # the base hostname & protocol for your site e.g. "https://ceoss625.github.io"
+url                      : "https://ceoss625.github.io"
 baseurl                  : "/shubhendra"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
