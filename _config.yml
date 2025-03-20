@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : true, false (default) # turns direction of the page into right to left for RTL languages
+rtl                      : false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Shubhendra's Portfolio"
 title_separator          : "-"
-subtitle                 : " Lets Do it"
+subtitle                 : "Lets Do it"
 name                     : "Shubhendra Pratap Singh"
-description              : "Engineer, researcher, and creative thinker with a passion for innovation, nature-inspired solutions, and continuous learning. Driven by curiosity, collaboration, and a commitment to making a positive impact."
+description              : "Engineer, researcher, and creative thinker"
 url                      : "https://ceoss625.github.io"
 baseurl                  : "/shubhendra"
 repository               : "mmistakes/minimal-mistakes"
