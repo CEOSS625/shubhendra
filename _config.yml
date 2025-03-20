@@ -10,16 +10,16 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                    : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+rtl                      : true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Shubhendra's Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : " Lets Do it"
 name                     : "Shubhendra Pratap Singh"
 description              : "Engineer, researcher, and creative thinker with a passion for innovation, nature-inspired solutions, and continuous learning. Driven by curiosity, collaboration, and a commitment to making a positive impact."
 url                      : "https://ceoss625.github.io"
